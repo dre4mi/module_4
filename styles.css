@@ -1,0 +1,18 @@
+h1 {
+    background: red;
+}
+.p-1 {
+    background: purple;
+}
+.p-2 {
+    color: orange;
+    border: 10px solid yellow;
+    font-size: 24pt;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+}
+.p-3 {
+    font-weight: bold;
+    font-family: Times New Roman;
+}
